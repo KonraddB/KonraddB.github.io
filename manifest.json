@@ -1,7 +1,7 @@
 {
   "name": "Bicycle",
   "short_name": "Bic",
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#FFF",
   "description": "Przykłady rowerów",
