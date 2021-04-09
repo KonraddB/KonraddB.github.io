@@ -1,0 +1,22 @@
+{
+    "short_name": "Bic",
+    "name": "Bicycle",
+    "description": "All of bicycle",
+    "icons": [
+      {
+        "src":   "bic.jpg",
+        "type":  "image/jpg",
+        "sizes": "192x192"
+      },
+      {
+        "src":   "bic.jpg",
+        "type":  "image/jpg",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "white"
+  }
