@@ -1,17 +1,17 @@
 {
-    "short_name": "Bic",
-    "name": "Bicycle",
-    "description": "All of bicycle",
-    "icons": [
-      {
-        "src":   "bic.png",
-        "type":  "image/png",
-        "sizes": "192x192"
-      }
-    ],
-    "start_url": "/index.html",
-    "background_color": "white",
-    "display": "standalone",
-    "scope": "/",
-    "theme_color": "white"
-  }
+  "name": "Bicycle UEK App",
+  "short_name": "Bicycle app",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFF",
+  "description": "Przykłady rowerów",
+  "lang": "pl-PL",
+  "theme_color": "#FFF",
+  "icons": [
+    {
+     "src": "./bic.jpg",
+     "sizes": "36x36",
+     "type": "image/jpg"
+    }
+   ]
+}
