@@ -1,6 +1,6 @@
 {
-  "name": "Bicycle UEK App",
-  "short_name": "Bicycle app",
+    "short_name": "Bic",
+    "name": "Bicycle",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FFF",
@@ -8,10 +8,15 @@
   "lang": "pl-PL",
   "theme_color": "#FFF",
   "icons": [
-    {
-     "src": "./bic.jpg",
-     "sizes": "36x36",
-     "type": "image/jpg"
-    }
-   ]
-}
+      {
+        "src":   "bic.png",
+        "type":  "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": ".",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "white"
+  }
