@@ -3,6 +3,7 @@
   "short_name": "Bic",
   "start_url": ".",
   "display": "standalone",
+  "scope": "/",
   "background_color": "#FFF",
   "description": "Przykłady rowerów",
   "lang": "pl-PL",
