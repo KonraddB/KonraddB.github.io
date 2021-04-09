@@ -4,14 +4,9 @@
     "description": "All of bicycle",
     "icons": [
       {
-        "src":   "bic.jpg",
-        "type":  "image/jpg",
+        "src":   "bic.png",
+        "type":  "image/png",
         "sizes": "192x192"
-      },
-      {
-        "src":   "bic.jpg",
-        "type":  "image/jpg",
-        "sizes": "512x512"
       }
     ],
     "start_url": "/index.html",
